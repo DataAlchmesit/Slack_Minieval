@@ -255,7 +255,7 @@ Only scores and metadata are stored — **raw message content is not retained** 
 
 ## Links
 
-- **Demo video:** _(add your public YouTube/Vimeo link)_
+- **Demo video:** _(https://youtu.be/X7yedpuhyqg)_
 - **Git Hub Lik:** _(https://github.com/DataAlchmesit/Slack_Minieval)_
 - **Setup guide:** [SETUP_AND_RUN.md](SETUP_AND_RUN.md)
 
