@@ -197,6 +197,8 @@ npx @modelcontextprotocol/inspector python src/mcp_server.py
 
 This means the same faithfulness check that runs in Slack is callable from Claude Desktop, Cursor, or any MCP host — so MiniEval's trust layer works for **any** AI output, not just Slack summaries.
 
+<img width="957" height="259" alt="Screenshot 2026-07-13 182904" src="https://github.com/user-attachments/assets/d6c0b620-dd97-466b-87ff-b3178807ec03" />
+
 ---
 
 ## Repository Structure
